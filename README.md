@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+Puedes visualizar la aplicación aquí: https://authentication-users-defb6.web.app/signup
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![image](https://github.com/user-attachments/assets/c0f33f56-9150-481d-8fa5-8f930c9f6db9)
